@@ -1,0 +1,69 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Packaging
+*.egg-info/
+build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+conda-env/
+
+# Environment variables and secrets
+.env
+.env.*
+*.key
+*.pem
+*.token
+secrets.json
+
+# Jupyter / testing / type checking
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large local assets
+checkpoints/
+models/
+weights/
+data/
+datasets/
+
+# Generated outputs
+outputs/
+runs/
+results/
+logs/
+wandb/
+
+# Media generated during experiments
+*.mp4
+*.avi
+*.mov
+*.gif
+
+# Keep example files if intentionally added
+!examples/
+!examples/images/
+!examples/masks/
+!examples/tasks/
