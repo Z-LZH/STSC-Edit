@@ -1,0 +1,13 @@
+{"id":"77_second_computer","baseline_sample_id":"77_second_computer","image_id":"77","edit_cmd":"remove the second computer","tag":"remove_second_computer","target_class":"computer","select":"nth_left","rank_index":1}
+{"id":"112_left_chair","baseline_sample_id":"112_left_chair","image_id":"112","edit_cmd":"change the left chair to blue","tag":"change_left_chair_blue","target_class":"chair","select":"leftmost"}
+{"id":"158_left_flower","baseline_sample_id":"158_left_flower","image_id":"158","edit_cmd":"add a butterfly on the left flower","tag":"add_butterfly_left_flower","target_class":"flower","select":"leftmost"}
+{"id":"162_top_kiwi_replace","baseline_sample_id":"162_top_kiwi","image_id":"162","edit_cmd":"replace the top kiwi with an apple","tag":"replace_top_kiwi_apple","target_class":"kiwi","select":"topmost"}
+{"id":"162_top_kiwi_move","baseline_sample_id":"162_top_kiwi","image_id":"162","edit_cmd":"move the top kiwi to the right of the plate","tag":"move_top_kiwi_right_of_plate","target_class":"kiwi","select":"topmost"}
+{"id":"296_left_elephant","baseline_sample_id":"296_left_elephant","image_id":"296","edit_cmd":"remove the left elephant","tag":"remove_left_elephant","target_class":"elephant","select":"leftmost"}
+{"id":"1_left_person_shirt","baseline_sample_id":"1_left_man_shirt","image_id":"1","edit_cmd":"change the left person's shirt to blue","tag":"change_left_person_shirt_blue","target_class":"shirt","select":"inside_left_person","ref_classes":["person","man"]}
+{"id":"69_left_potato","baseline_sample_id":"69_left_potato","image_id":"69","edit_cmd":"remove the left potato","tag":"remove_left_potato","target_class":"potato","select":"leftmost"}
+{"id":"63_move_left_knife","baseline_sample_id":"63_left_knife","image_id":"63","edit_cmd":"move the left knife to the left of the fork","tag":"move_left_knife_left_of_fork","target_class":"knife","select":"leftmost"}
+{"id":"63_replace_top_knife","baseline_sample_id":"63_top_knife","image_id":"63","edit_cmd":"replace the top knife with a spoon","tag":"replace_top_knife_spoon","target_class":"knife","select":"topmost"}
+{"id":"63_replace_fork","baseline_sample_id":"63_fork","image_id":"63","edit_cmd":"replace the fork with a spoon","tag":"replace_fork_spoon","target_class":"fork","select":"class_only"}
+{"id":"63_replace_right_knife","baseline_sample_id":"63_right_knife","image_id":"63","edit_cmd":"replace the right knife with a spoon","tag":"replace_right_knife_spoon","target_class":"knife","select":"rightmost"}
+{"id":"63_add_knife_left_of_fork","baseline_sample_id":"63_fork","image_id":"63","edit_cmd":"add a knife on the left of the fork","tag":"add_knife_left_of_fork","target_class":"fork","select":"class_only","mask_mode":"placement_left_of_target"}
