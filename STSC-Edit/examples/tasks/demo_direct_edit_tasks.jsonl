@@ -1,5 +1,0 @@
-{"id":"demo_01_top_knife","image_id":"1","edit_cmd":"replace the top knife with a spoon","tag":"replace_top_knife_with_spoon"}
-{"id":"demo_02_left_potato","image_id":"2","edit_cmd":"move the leftmost potato on the plate to the right side of the plate","tag":"move_left_potato_to_right_side"}
-{"id":"demo_03_left_chair","image_id":"3","edit_cmd":"change the color of the left chair to red","tag":"change_left_chair_to_red"}
-{"id":"demo_04_left_flower","image_id":"4","edit_cmd":"add a butterfly on the flower on the left","tag":"add_butterfly_on_left_flower"}
-{"id":"demo_05_leftmost_elephant","image_id":"5","edit_cmd":"remove the leftmost elephant","tag":"remove_leftmost_elephant"}

@@ -1,5 +1,0 @@
-{"id":"demo_01_top_knife","image":"examples/images/1.jpg","target_phrase":"the top of knife","category":"knife"}
-{"id":"demo_02_left_potato","image":"examples/images/2.jpg","target_phrase":"the leftmost potato on the plate","category":"potato"}
-{"id":"demo_03_left_chair","image":"examples/images/3.jpg","target_phrase":"the left chair","category":"chair"}
-{"id":"demo_04_left_flower","image":"examples/images/4.jpg","target_phrase":"the flower on the left","category":"flower"}
-{"id":"demo_05_leftmost_elephant","image":"examples/images/5.jpg","target_phrase":"the leftmost elephant","category":"elephant"}
